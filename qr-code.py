@@ -1,5 +1,5 @@
 # 1. Atver "Terminal" logu (Terminal -> New Terminal) un ielādē bibliotēku "qrcode" ar komandas palidzību
-# > pip3 install qrcode
+# > pip install qrcode
 # 
 # 2. Palaid kodu, nolasi kodu ar sava telefona kameru
 #
