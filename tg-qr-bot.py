@@ -2,7 +2,7 @@
 # https://docs.python-telegram-bot.org/en/v21.0.1/index.html
 # 
 # 1. Uzinstalē bibliotēku
-# > pip3 install python-telegram-bot
+# > pip install python-telegram-bot
 # 
 # 2. Uztaisi jaunu Telegram botu un saņem "token" - https://core.telegram.org/bots/features#creating-a-new-bot
 #
